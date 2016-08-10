@@ -13,6 +13,7 @@
     "watch": "gulp watch"
   },
   "keywords": [],
+  "repository": "https://github.com/adammcarth/dashr-wpc-widget",
   "author": "Adam McArthur",
   "license": "MIT",
   "devDependencies": {

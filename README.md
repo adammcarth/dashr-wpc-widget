@@ -1,7 +1,7 @@
 World Pool Championships
 ---------------------------
 
-This application is the API endpoint for Sam & Adam's pool scores, running on the
+This application displays Sam & Adam's latest pool score tally, running on the
 [Dashr](https://github.com/dashrlabs) widget platform for Google Chrome.
 
 License
