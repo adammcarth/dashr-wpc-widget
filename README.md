@@ -1,11 +1,8 @@
 World Pool Championships
 ---------------------------
 
-Welcome to your new Widget.
-
-Running `npm publish` will get you onto the NPM repository.  It will also automatically compile your code
-
-Have fun writing ES6 modules!
+This application is the API endpoint for Sam & Adam's pool scores, running on the
+[Dashr](https://github.com/dashrlabs) widget platform for Google Chrome.
 
 License
 -------
